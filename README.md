@@ -13,6 +13,6 @@ pip install d2l==1.0.0b0
 git config --global user.email "zxia15@jh.edu"
 git config --global user.name "bella-xia"
 g
-it remote set-url origin https://bella-xia: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@github.com/bella-xia/Dive-Into-Deep-Learning.git
+it remote set-url origin https://bella-xia:some_token@github.com/bella-xia/Dive-Into-Deep-Learning.git
 
 git config --global --unset http.proxy
